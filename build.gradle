@@ -1,6 +1,6 @@
 // Top-level build file
 plugins {
-    // نستخدم أدوات أندرويد فقط (بدون Kotlin)
+    // هذا السطر هو الحل السحري لمشكلة Gradle 8
     id 'com.android.application' version '8.2.0' apply false
 }
 
